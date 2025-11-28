@@ -1,0 +1,1 @@
+This project demonstrates a basic Flask web application that renders HTML templates using Flask’s built-in render_template() function. It helps you understand routing, templates, and running a local server.
